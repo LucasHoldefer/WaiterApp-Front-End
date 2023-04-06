@@ -26,7 +26,6 @@ export function OrderModal({ visible, order, onClose, onCancelOrder, isLoading, 
 
   return (
     <>
-      <h1>Order Modal</h1>
       <Overlay>
         <ModalBody>
 

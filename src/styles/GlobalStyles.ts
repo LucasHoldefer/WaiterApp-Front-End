@@ -51,6 +51,7 @@ export const GlobalStyles = createGlobalStyle`
   body {
     background: #fafafa;
     color: #333;
+    font-size: 16px;
   }
 
   button {
